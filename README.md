@@ -1,2 +1,2 @@
-# robo-friends https://github.com/nicolasgomeztoua/robo-friends.git
+# robo-friends https://nicolasgomeztoua.github.io/robo-friends/
 First small React project
